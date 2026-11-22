@@ -1,4 +1,4 @@
-# Portofolio Fiqtoril Oyun
+# Portofolio Fiqtoril
 
 Website portofolio pribadi bergaya CV untuk menampilkan profil, perjalanan akademik, keahlian, proyek, pencapaian, dan kanal kontak. Aplikasi ini dibuat sebagai proyek pembelajaran dan menyediakan dashboard admin untuk mengelola konten portofolio.
 
